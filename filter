@@ -1,0 +1,98 @@
+! 2024-02-27 https://ya.ru
+ya.ru###rsya-guarantee
+
+! 2024-03-05 https://www.youtube.com
+www.youtube.com##.ytp-paid-content-overlay-text
+www.youtube.com##.ytp-paid-content-overlay-icon
+www.youtube.com##.ytp-paid-content-overlay-link
+
+! 2024-03-22 https://test-front.anilib.me
+test-front.anilib.me##.kb_bf
+test-front.anilib.me###c99fe90b-82f9-4440-832a-b47d2dea796a
+
+! 2024-04-10 http://breaking-bad-online.ru
+||breaking-bad-online.ru/templates/brbad/images/brbad-shop2.gif$image
+
+! 2024-04-10 https://www.youtube.com
+www.youtube.com##.centered.efyt-control-bar
+
+! 2024-06-24 https://www.curseforge.com
+||content.overwolf.com/curseforge/web/banners/power-rangers-top-banner-desktop.webp$image
+||content.overwolf.com/curseforge/web/banners/power-rangers-top-banner-desktop.webp$image
+||content.overwolf.com/curseforge/web/banners/power-rangers-top-banner-desktop.webp$image
+www.curseforge.com##.link-btn-icon.btn-primary.link-btn
+www.curseforge.com##.client-marketing > h1
+www.curseforge.com##.client-marketing > .btn-primary
+www.curseforge.com##.client-marketing > p > strong
+www.curseforge.com##.client-marketing > p
+
+
+! 2024-06-25 https://www.curseforge.com
+www.curseforge.com##a.btn-cta:nth-of-type(2)
+www.curseforge.com##.is-open.kebab-menu [href="/minecraft/modpacks/prominence-2-rpg/install/5472114"]
+www.curseforge.com##[href="/minecraft/modpacks/prominence-2-rpg/install/5432750"]
+www.curseforge.com##[href="/minecraft/modpacks/prominence-2-rpg/install/5393360"]
+
+! 2024-06-27 https://chan.sankakucomplex.com
+chan.sankakucomplex.com##.topbar-carousel.carousel
+chan.sankakucomplex.com##.companion--draggable_element
+chan.sankakucomplex.com##.premium-carousel.carousel
+chan.sankakucomplex.com###sp1 > div > [href="https://get.sankaku.plus/"]
+chan.sankakucomplex.com###right-col > .carousel
+chan.sankakucomplex.com##[href="https://get.sankaku.plus/"] > font
+chan.sankakucomplex.com##[href^="https://chan.sankakucomplex.com/"] > font
+chan.sankakucomplex.com##.news-carousel.carousel
+chan.sankakucomplex.com##.companion-carousel.carousel
+chan.sankakucomplex.com##.ai-carousel.carousel
+
+twitch.tv##+js(twitch-videoad)
+
+! 2024-06-27 https://www.twitch.tv
+||vod-secure.twitch.tv/_404/404_processing_320x180.png$image
+
+! 2024-06-30 https://rutube.ru
+rutube.ru##.wdp-scroll-gallery-module__items
+rutube.ru##.wdp-yappy-link-module__text
+
+! 2024-07-02 https://chan.sankakucomplex.com
+chan.sankakucomplex.com###news-ticker
+chan.sankakucomplex.com##.top-bar
+
+! 2024-07-02 https://anilib.me
+anilib.me##.km_cc
+anilib.me###\38 9a2e898-ef41-4440-a811-2d5f877cd16a
+
+! 2024-07-04 https://www.twitch.tv
+||vod-secure.twitch.tv/_404/404_processing_320x180.png$image
+||vod-secure.twitch.tv/_404/404_processing_320x180.png$image
+www.twitch.tv##.hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .cegTsp.ljgEdo.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
+
+! 2024-07-10 https://duckduckgo.com
+duckduckgo.com##.container_responsive__IDWnv.container_root__Lmrbx.desktop-homepage_heroContent__px79B
+duckduckgo.com##.hF7w5TROgutbYQwHzEf_.MQCbz04ET5EljRmK3YpQ.ffON2NH02oMAcqyoh2UU.TQFs9yvBgnOz3EeEI5OL
+duckduckgo.com##.minimal-homepage_taglineText__owJPH.tagline_taglineText__4Okum
+duckduckgo.com##.V_kJtMs7Zyzm6ruq8Z3u.O9Ipab51rBntYb0pwOQn
+
+! 2024-07-14 https://anilib.me
+anilib.me###\31 a266837-7067-4a38-960a-1889be202923
+anilib.me##.kj_bt
+
+! 2024-07-15 https://www.msn.com
+www.msn.com##.newsContent-DS-EntryPoint1-1
+||assets.msn.com/weathermapdata/1/static/weatherEplant/bubble/64x64.png$image
+||assets.msn.com/weathermapdata/1/static/weatherEplant/bubble/64x64.png$image
+www.msn.com##.show.newsContainer-DS-EntryPoint1-1
+www.msn.com##msn-verticals-header
+www.msn.com##.eplantEntrance-DS-EntryPoint1-1
+www.msn.com##button.floatButton-DS-EntryPoint1-1:nth-of-type(1)
+www.msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-1
+www.msn.com##.content
+www.msn.com##.mobileAppPromotion-DS-EntryPoint1-1
+
+! 2024-07-16 https://test-front.mangalib.me
+test-front.mangalib.me###ddbb2ddd-73e2-48a3-9915-8e185f27c2ab
+test-front.mangalib.me##.kj_bt
+
+! 2024-07-16 https://hentailib.me
+hentailib.me###a3a39edd-260b-45fb-9b72-b0026e937a24
+hentailib.me##.kj_bt
